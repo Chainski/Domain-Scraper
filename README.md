@@ -21,7 +21,7 @@ $ pip install requests
 $ pip install colorama
 ```
 
-<strong>If you don't have python installed, then download and run the compiled verson from HERE
+<strong>If you don't have python installed, then download and run the compiled verson from [HERE](https://github.com/chainski/Domain-Scraper/releases)
 
 ## Disclaimer ⚠️
 
