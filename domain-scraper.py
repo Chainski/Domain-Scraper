@@ -8,14 +8,6 @@ from colorama import Fore
 os.system('mode con: cols=160 lines=40')
 
 
-test_url = r'https://www.youtube.com/channel/UCR55c-mtcH86O-QvOQC_oFg?sub_confirmation=1'
-
-with open('Subscribe.url','w') as f:
-    f.write(f"""[InternetShortcut]
-URL={test_url}
-""")
-
-
 banner = '''
                              ██████╗  ██████╗ ███╗   ███╗ █████╗ ██╗███╗   ██╗    ███████╗ ██████╗██████╗  █████╗ ██████╗ ███████╗██████╗ 
                              ██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║████╗  ██║    ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
