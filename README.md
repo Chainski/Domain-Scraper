@@ -31,12 +31,4 @@ It is not meant to be used in any malicious way, and I decline any responsibilit
 ## Virustotal ✅
  <a href="https://www.virustotal.com/gui/file/30cdc26c13704050cd4d095fd9f9e9064cab822acd7c15e99b59203c57bb282f/detection"><img src="https://img.shields.io/badge/VIRUS-TOTAL-lightgrey"></a>
 
-### Support and Contributions
-My software is open source and free for public use. 
-If you found any of these repos useful and would like to support this project financially, 
-feel free to donate to my bitcoin address.
-
-<a href="https://www.blockchain.com/btc/address/16T1fUehoGR4E2sj98u9e9mKuQ7uSLvxRJ"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg"></a>
-
-
 
