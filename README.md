@@ -1,11 +1,12 @@
+<p align="center">
 <a href="https://github.com/chainski/Domain-Scraper"><img src="https://img.shields.io/badge/OPEN--SOURCE-YES-green"></a>
 <a href="https://github.com/chainski/Domain-Scraper"><img src="https://img.shields.io/badge/PYTHON-3.9-green"></a>
 <a href="https://github.com/chainski/Domain-Scraper"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
 <a href="https://github.com/chainski/Domain-Scraper/releases"><img src="https://img.shields.io/badge/release-v1.0.0.0-red"></a> 
-
+</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/96607632/159190622-022c2387-f815-421b-b331-5a0291d50097.png", width="800", height="800">
+<img src="https://github.com/Chainski/Domain-Scraper/assets/96607632/5c525e01-9c27-4df8-8e82-b584cbdd3c6f", width="800", height="800">
 </p>
 
 ## Domain-Scraper 🌐
