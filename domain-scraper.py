@@ -22,7 +22,7 @@ info = '''
                                                                    ║       DOMAIN SCRAPER V1.0      ║                                              
                                                                    ║       coded by chainski        ║
                                                                    ║ For Educational Purposes Only  ║                                     
-                                                                   ║ Join : https://t.me/chinotech  ║              
+                                                                   ║   https://github.com/chainski  ║              
                                                                    ╚════════════════════════════════╝
 '''
 
