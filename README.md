@@ -29,7 +29,4 @@ $ pip install colorama
 <strong>Please use this program only for educational purposes.
 It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
 
-## Virustotal ✅
- <a href="https://www.virustotal.com/gui/file/30cdc26c13704050cd4d095fd9f9e9064cab822acd7c15e99b59203c57bb282f/detection"><img src="https://img.shields.io/badge/VIRUS-TOTAL-lightgrey"></a>
-
 
